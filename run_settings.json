@@ -1,0 +1,21 @@
+{
+  "seeds_main": 10,
+  "seeds_clean_matched": 30,
+  "attack_samp": 1.0,
+  "attack_steps": 20,
+  "attack_step": 0.5,
+  "attack_c": [
+    0,
+    0.01,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "mu_grid": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "mu_small": 0.1,
+  "dev": "cuda"
+}
